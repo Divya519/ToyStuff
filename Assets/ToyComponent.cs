@@ -8,6 +8,7 @@ public class ToyComponent : MonoBehaviour {
 	 public GUIText DudeName = new GUIText();	
 	
 	//changed by me
+	//written by kartheek
     
     void Start() {
 		
